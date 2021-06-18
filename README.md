@@ -28,12 +28,12 @@ My final results included the following files:
 
 ## File Descriptions
 
-File names: departments.csv (2 columns)
-File names: dept_emp.csv (2 columns)
-File names: dept_manager.csv (2 columns)
-File names: employees.csv (7 columns)
-File names: salaries.csv (2 columns)
-File names: titles.csv (2 columns)
+- File names: departments.csv (2 columns)
+- File names: dept_emp.csv (2 columns)
+- File names: dept_manager.csv (2 columns)
+- File names: employees.csv (7 columns)
+- File names: salaries.csv (2 columns)
+- File names: titles.csv (2 columns)
 
 ## Technologies
 
